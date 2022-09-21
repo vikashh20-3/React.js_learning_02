@@ -1,0 +1,45 @@
+ *{
+    background-color: #ccccff;
+    margin: 0px;
+    padding: 0px;
+}
+form{
+    background-color: orange;
+    height: 35%;
+    width: 30%;
+    display: block;
+    background-color: #6666ff;
+    margin: auto ;
+    position:absolute;
+    top: 33%;
+    left: 30%;
+    border-radius: 10px;
+}
+
+form>div{
+    
+    background-color: #6666ff;
+    align-items: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 20px;
+    text-transform: uppercase;
+    text-decoration-thickness: 3px;
+}
+form>div>label{
+    
+    background-color: #6666ff;
+}
+form>div>label>input{
+    
+    background-color: #6666ff;
+ }
+ button{
+     height: 30px;
+     width: 50px;
+     position: absolute;
+     left: 43%;
+ } 
